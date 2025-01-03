@@ -1,0 +1,6 @@
+/fastapienv/
+__pycache__/
+.idea
+env
+
+*.db
